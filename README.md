@@ -1,4 +1,4 @@
-## 👋 你好，我是杨国斌
+## 👋 你好，我是Augustrains
 
 🎯 专注大模型与检索增强生成（RAG）系统，具备完整检索→重排→生成→评测工程经验  
 💡 熟悉 Hybrid Retrieval、Reranker 优化、LoRA 微调及 vLLM 推理部署  
