@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 代表项目
-- **IR-RAG-System**：基于混合检索与重排序的知识库问答系统  
+- **IR-RAG-System**：基于 Hybrid Retrieval（BM25 + BGEM3）与 Reranker 的知识库问答系统，支持检索→重排→生成→评测完整RAG流程
 - **在线评测 OJ 系统**：高并发架构 + 动态负载均衡调度  
 ---
 
