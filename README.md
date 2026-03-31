@@ -17,8 +17,6 @@
 - **IR-RAG-System**：基于 Hybrid Retrieval（BM25 + BGEM3）与 Reranker 的知识库问答系统，支持检索→重排→生成→评测完整 RAG pipeline  
 - **online-judge-system**：基于 C++ 的高并发在线评测系统，支持动态负载均衡调度与多进程隔离执行  
 - **legal-multi-agent-rag**：基于 RAG + 多 Agent 协同的法律文档分析系统，支持任务分解与多角色推理  
-- **rl-training-platform**：基于 Kubernetes 的强化学习训练平台，支持训练任务调度与容器化运行  
-
 ---
 
 ### 🛠 技术栈
