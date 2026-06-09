@@ -21,7 +21,8 @@
 - **qq-cat-bot**：基于 NoneBot2 + 多 LLM 后端（DeepSeek / Claude）的 QQ 智能聊天机器人，支持流式对话、Qwen3-TTS 语音合成与每日自进化记忆更新  
 - **legal-multi-agent-rag**：基于 RAG + 多 Agent 协同的法律文档分析系统，支持任务分解与多角色推理  
 - **online-judge-system**：基于 C++ 的高并发在线评测系统，支持加权动态负载均衡与多进程沙箱隔离（fork + exec + setrlimit）  
-
+- **job-network-viz**：基于 BGE Embedding + HNSW 三层图的岗位关联可视化系统，支持多视图探索（相似岗位/薪资机会/技能迁移/个人机会）、投递状态管理、行动清单决策与
+   Markdown 求职报告导出。
 ---
 
 ### 🛠 技术栈
