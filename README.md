@@ -1,16 +1,6 @@
 ## 👋 你好，我是 Augustrains
 
-🎯 西安交通大学软件工程硕士，专注 **LLM 应用开发 / RAG / Agent** 方向  
-💡 具备检索→重排→生成→评测→部署全链路工程经验，熟悉 LangChain / vLLM / DeepEval / DSPy 生态  
-
----
-
-### 🚀 技术亮点
-
-- **RAG 全链路**：Hybrid Retrieval（BM25 + BGE-M3）→ Reranker（BGE）→ LoRA 微调（Qwen3）→ vLLM 推理部署
-- **Agent 开发**：ReAct 循环 + 工具调用 + LangChain Runnable 组件编排
-- **评测体系**：DeepEval Golden 数据集 + 多维指标评测（Recall / 相关性 / 准确率）+ DSPy few-shot 提示词自动迭代优化
-- **工程部署**：FastAPI + Celery + Redis + Docker Compose 异步任务架构
+🎯 专注 **LLM 应用开发 / RAG / Agent** 方向 , 喜欢去接触新鲜事物
 
 ---
 
@@ -33,5 +23,5 @@
 
 ### 📫 联系方式
 
-- Email: wjxwgyxeya@126.com
+- Email: xianshengsu410@gmail.com
 - GitHub: https://github.com/Augustrains
